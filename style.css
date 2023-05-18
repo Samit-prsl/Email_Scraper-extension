@@ -1,8 +1,19 @@
 body {
     min-height: 100px;
     min-width: 300px;
+    background-color: rgb(149, 224, 224);
+    font-size: medium;
+    color: black;
 }
 
-centre {
+.Centre {
     text-align: center;
+}
+#button {
+    margin-top: 20px;
+    padding: 2px;
+}
+ul {
+    list-style: none;
+    text-align: left;
 }
